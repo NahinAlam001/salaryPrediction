@@ -1,0 +1,4 @@
+{
+  "name": "FastAI Salary Predictor",
+  "description": "A web application that predicts salary based on user-provided information, using a custom-trained FastAI model served via a FastAPI backend."
+}

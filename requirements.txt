@@ -1,0 +1,11 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+pandas==2.2.0
+pydantic==2.6.2
+scikit-learn==1.4.0
+fastai==2.7.14
+python-multipart==0.0.9
+pickle5==0.0.12; python_version < '3.8'
+typing-extensions==4.9.0
+starlette==0.36.0
+gunicorn==21.2.0
